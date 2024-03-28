@@ -5,7 +5,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service
-public class UserServicesTest implements UserServices{
+public class UserServicesImplements implements UserServices{
     @Autowired
     private UserRepository userRepository;
 }
