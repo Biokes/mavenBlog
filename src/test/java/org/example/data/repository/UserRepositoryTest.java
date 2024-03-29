@@ -11,7 +11,6 @@ import static org.junit.Assert.assertEquals;
 
 @SpringBootTest
 public class UserRepositoryTest{
-    @Autowired
     private UserRepository userRepository;
 
 @Test
