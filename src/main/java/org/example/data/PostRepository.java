@@ -1,4 +1,4 @@
-package org.example.data.repository;
+package org.example.data;
 
 import org.example.data.models.Post;
 import org.springframework.data.mongodb.repository.MongoRepository;
